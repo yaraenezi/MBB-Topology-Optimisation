@@ -1,0 +1,15 @@
+3D MBB truss watertightness test
+domain_elements=6272
+threshold=0.42
+raw_solid_voxels=2396
+solid_voxels=2396
+voxel_debug_triangles=6720
+voxel_debug_unique_edges=10080
+voxel_debug_non_manifold_or_open_edges=0
+voxel_debug_watertight=True
+print_mesh_vertices=52532
+print_mesh_faces=105088
+print_mesh_body_count=1
+print_mesh_area=28706.803812939477
+print_mesh_volume=79531.71871012553
+print_mesh_watertight=True

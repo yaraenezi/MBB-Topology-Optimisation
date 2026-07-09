@@ -1,0 +1,7 @@
+HILT recovered source validation
+target_image=outputs/hilt_validation/user_reference_attachment.png
+recovered_topology_source=src/recovered/mbb_3d_truss_pymoto_recovered_3d_20260708_151202.py
+recovered_refinement_source=src/recovered/refine_3d_print_mesh_recovered_refined_20260708_155144.py
+topology_run=outputs/runs/3d_20260708_151202
+refined_run=outputs/runs/refined_20260708_155144
+validation_image=outputs/hilt_validation/hilt_recovered_source_validation.png

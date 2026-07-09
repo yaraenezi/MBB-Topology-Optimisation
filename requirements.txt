@@ -1,0 +1,7 @@
+# Minimal dependencies for mbb_beam_pymoto.py
+numpy
+pymoto==2.0.1
+scikit-image
+trimesh
+shapely
+mapbox-earcut

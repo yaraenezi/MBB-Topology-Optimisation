@@ -1,0 +1,18 @@
+Refined 3D MBB print mesh report
+run_id=refined_20260708_155144
+source_run=C:\Users\SASCA\Desktop\YARA ALENEZI -SURE\mbb\outputs\runs\3d_20260708_151202
+threshold=0.42
+upscale=4
+gaussian_sigma=1.15
+wall_preserve_sigma=0.55
+loop_subdivision_iterations=1
+taubin_iterations=32
+bottom_flat_band_mm=2.2
+print_mesh_watertight=True
+print_mesh_vertices=205428
+print_mesh_faces=410880
+print_mesh_body_count=1
+print_mesh_area=28782.254109714195
+print_mesh_volume=77728.96481050439
+bounds_min=0.000000,0.000000,0.000000
+bounds_max=210.000000,40.000000,24.000000

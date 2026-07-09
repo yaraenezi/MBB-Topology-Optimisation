@@ -1,0 +1,35 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Keep generated outputs out by default.
+outputs/runs/*
+
+# Accepted 2D baseline output.
+!outputs/runs/20260708_143004/
+!outputs/runs/20260708_143004/**
+
+# Accepted recovered 3D topology output.
+!outputs/runs/3d_20260708_151202/
+!outputs/runs/3d_20260708_151202/**
+
+# Accepted recovered 3D print-refinement output.
+!outputs/runs/refined_20260708_155144/
+!outputs/runs/refined_20260708_155144/**
+
+# HILT validation for the recovered 3D source chain.
+!outputs/hilt_validation/
+!outputs/hilt_validation/**
+
+# Local/copyright-sensitive reference material is kept out of GitHub.
+references/
+
+# Failed or deprecated generated run pointers can be regenerated locally.
+outputs/latest_run.txt
+outputs/latest_cad_reconstruction.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

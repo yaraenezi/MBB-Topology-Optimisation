@@ -1,0 +1,8 @@
+MBB beam watertightness test
+domain_elements=3024
+threshold=0.5
+solid_elements=1286
+triangles=6648
+unique_edges=9972
+non_manifold_or_open_edges=0
+watertight=True

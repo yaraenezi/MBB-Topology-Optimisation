@@ -1,0 +1,12 @@
+MBB beam optimization run
+run_id=20260708_143004
+timestamp=20260708_143004
+span_mm=210.0
+height_mm=40.0
+nx=126
+ny=24
+volume_fraction=0.42
+filter_radius=2.0
+threshold=0.5
+watertight=True
+non_manifold_or_open_edges=0
